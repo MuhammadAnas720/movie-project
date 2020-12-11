@@ -1,7 +1,7 @@
 # movie-project
 # Trapped.
 
-**Project Description:**
+# Project Description:
 
 *Do you feel clustered by the voices that are binary? Is the help you get, really helping you? Do you control all that you think you do?
 Watch the story of Ishmal who loves to exploit her devices. Not does she know, she is actually Trapped.*
@@ -17,7 +17,7 @@ To balance off web interactivity alongside maximum movie entertainment, we had t
 
 Hence, an integral way through which the website plays its critical role in the storytellig, and allows user to live the experience of the project, is by an enhanced element of control provided to the user on the web - the same control that Ishmal loses in the movie and goes through the misadventure. This control is provided by none other than our very own version of the *alexa* bot (see movie for reference). This *alexa* inititally allows user to control the mute option of the web audio effect in background and the color theme of the website. At the bottom, this also then serves as a uniquely interactive form, which not only helps us record user feedback/critique, but also provides this form submission as an experience of chat with our bot itself. The idea of these *alexa* features are to interpret our web-implemented versions of Alexa music, lights control, and chat features - the features our character relies on in the video. More than anything, the *Alexa* controls directly serve our idea of enhanced usiility of the page through the controls, wrapped in the mode of Alexa to uplift the user interactivity and immersive experience both to the webpage and the concept of the webpage at large.
 
-**Process:**
+# Process:
 
 The beginning process of the movie project was definitely the completion of a flwaless script. This subtask started with exploration of a range of genres, and eventually, horrow, coupled with elements of continued suspense, was decided as the genre by the group. 
 The main driving force in the story-telling process was to have a powerful script that creates a gluing effect on the viewer - a suspenseful horrow experience that keeps them immersed in the movie throughout. The execution of this idea emerges from a storyline that has some key features. An emphasis of the storyline was to begin the movie in a way that sets up the story perfecly and lays foundation for the horrows to follow in the main plot. The set-up then follows its main plot, where the main character, Ishmal, encounters a frightening encounter with the technology she always considered to be her friend. An intentional effort was invested in the character development, to both add effectiveness to the overall viewer attachment to the script, and to follow on with the details and requirements of the plot. A suspense movie with any ending that the viewer could've anyhow predicted would have been unsatisfactory to our own selves as well, and hence, the movie ends on a twist. (again, details on the twist would be spolier). 
@@ -36,7 +36,8 @@ However, while this video was being produced, a simultaneous work was needed on 
 
 
 
-[Initial Script:]
+**Initial Script:**
+
 4 friends are as follows: Anas (the coward one), Ishmal (the overconfident), Ayesha (the selfish one), and Hasin (the mature diplomatic guy)
 The friends watch a news on the TV about a certain haunted place, where whoever has gone before, never comes back. Ishmal convinces others that this would be a lie, and they decide to go to the place at the night. Their walk to the place is overly charged with emotions, with Anas being scared, Ayesha caring only about herself, and Ishmal excited to just go there. Signs on the way signal the friends to be smart about it, but they ignore. Eventually they enter this place, which is actually very scary. While they are exploring the place, Ishmal is thrown to the ground, dragged and held by an invisible force, that eventually kills her by choking her. The other 3 get extremely frightened, panic, cry for their friend, when suddenly presence of supernatural force can be clearly felt in things cluttering, rocks throwing, etc. The friends run in fright, but they cant find a way out. Eventually, Anas tried to find a way towards the dark side, however, he is suddenly thrown to the ground and dragged in the dark, while he screams for Ayesha and Hasin to save him. Seconds later, his body is rolled out with scars all over. Ayesha and Hasin also face their scary deaths one by one. - A horror tragedy for sure.
 
@@ -44,7 +45,7 @@ Next day, the news of the disappearance of these 4 friends at the site plays, a 
 
 
 
-**Reflection/Evaluation:** 
+# Reflection/Evaluation:
 
 The project was an immensely fun and unique learning experience to be fair. Coming to the technical and creative side of it, alot of the elements were fairly new to all team members - a movie shooting and editing for example. Besides technicalities as well, for the team, this project also became a crucial skill building activity. We ourselves underwent a process that required adabtilitiy, flexibility with work, apt ideas, and quick reconstruction, teaching us crucial imlementation soft skills. 
 
