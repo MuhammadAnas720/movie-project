@@ -36,7 +36,7 @@ However, while this video was being produced, a simultaneous work was needed on 
 
 
 
-Initial Script:
+[Initial Script:]
 4 friends are as follows: Anas (the coward one), Ishmal (the overconfident), Ayesha (the selfish one), and Hasin (the mature diplomatic guy)
 The friends watch a news on the TV about a certain haunted place, where whoever has gone before, never comes back. Ishmal convinces others that this would be a lie, and they decide to go to the place at the night. Their walk to the place is overly charged with emotions, with Anas being scared, Ayesha caring only about herself, and Ishmal excited to just go there. Signs on the way signal the friends to be smart about it, but they ignore. Eventually they enter this place, which is actually very scary. While they are exploring the place, Ishmal is thrown to the ground, dragged and held by an invisible force, that eventually kills her by choking her. The other 3 get extremely frightened, panic, cry for their friend, when suddenly presence of supernatural force can be clearly felt in things cluttering, rocks throwing, etc. The friends run in fright, but they cant find a way out. Eventually, Anas tried to find a way towards the dark side, however, he is suddenly thrown to the ground and dragged in the dark, while he screams for Ayesha and Hasin to save him. Seconds later, his body is rolled out with scars all over. Ayesha and Hasin also face their scary deaths one by one. - A horror tragedy for sure.
 
@@ -44,7 +44,7 @@ Next day, the news of the disappearance of these 4 friends at the site plays, a 
 
 
 
-**Reflection/Evaluation: ** 
+**Reflection/Evaluation:** 
 
 The project was an immensely fun and unique learning experience to be fair. Coming to the technical and creative side of it, alot of the elements were fairly new to all team members - a movie shooting and editing for example. Besides technicalities as well, for the team, this project also became a crucial skill building activity. We ourselves underwent a process that required adabtilitiy, flexibility with work, apt ideas, and quick reconstruction, teaching us crucial imlementation soft skills. 
 
